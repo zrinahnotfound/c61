@@ -1,0 +1,19 @@
+body { text-align: center; } 
+h1 {
+    font-size: 40px;
+    font-weight: 300;
+}
+#Apps {
+    background-color: coral;
+}
+#Games {
+    background-color: cyan;
+}
+#Chatbot {
+    background-color: rgb(217, 255, 80);
+}
+.line { 
+    height: 6px;
+     background-color: #000;
+      width: 70px;
+       margin: 8px auto; }
